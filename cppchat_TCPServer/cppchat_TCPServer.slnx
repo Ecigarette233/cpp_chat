@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cppchat_TCPServer/cppchat_TCPServer.vcxproj" Id="19da0752-3d3d-482d-aa25-f4f90ce593b0" />
+</Solution>
